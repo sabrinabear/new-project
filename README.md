@@ -5,8 +5,6 @@
 
 An online shopping project, continuously improving...
 
-![Functional Map](img/module.png)
-
 ## Prerequisites
 - Redis (On Windows, you can find a 3.0 installation package or use Docker; for Linux and Mac, the installation process is not elaborated here)
 - Lombok plugin (For IntelliJ IDEA, install it yourself; I haven't tried it on Eclipse)
